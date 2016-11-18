@@ -1,4 +1,130 @@
 <resources>
     <string name="app_name">Take_away</string>
     <string name="title_activity_map">Map</string>
+    <string-array name="titles">
+        <item>Khalsa</item>
+        <item>Sagar Ratna</item>
+        <item>Sindhi Sweets</item>
+        <item>Karthik</item>
+        <item>Sankalp</item>
+        <item>Sundarams</item>
+        <item>FoodAtu</item>
+        <item>Chennai Food</item>
+    </string-array>
+
+    <string-array name="address">
+        <item>5 Phase,Mohali</item>
+        <item>10 Phase,Mohali</item>
+        <item>Kharar,Mohali</item>
+        <item>Sec-47,Chandigarh</item>
+        <item>Sec-26,Chandigarh</item>
+        <item>Sec-17,Chandigarh</item>
+        <item>5 Phase,Mohali</item>
+        <item>Industrial Area,Chandigarh</item>
+
+    </string-array>
+
+    <string-array name="titles1">
+        <item>Pal dhaba</item>
+        <item>Yo China</item>
+        <item>Midnight chef</item>
+        <item>Night Factory</item>
+        <item>K.F.C</item>
+        <item>Mc.Donalds</item>
+        <item>Social Junk</item>
+    </string-array>
+
+    <string-array name="address1">
+        <item>3B2,Mohali</item>
+        <item>Sector-9D,Chandigarh</item>
+        <item>Sector-35B,Chandigarh</item>
+        <item>Sec-8,Chandigarh</item>
+        <item>3B2,Mohali</item>
+        <item>Sec-35,Chandigarh</item>
+        <item>6 phase,Mohali</item>
+
+    </string-array>
+
+    <string-array name="titles2">
+        <item>Mainland China</item>
+        <item>Yo China</item>
+        <item>Adhikari Chinese fast food</item>
+        <item>Chinese Panda</item>
+        <item>Noodle Bar</item>
+        <item>Hibachi</item>
+        <item>Buffet Hut</item>
+    </string-array>
+
+    <string-array name="address2">
+        <item>Sec-26,Chandigarh</item>
+        <item>Sector-9D,Chandigarh</item>
+        <item>Sector-35B,Chandigarh</item>
+        <item>Sec-70,Mohali</item>
+        <item>Elante Mall,Chandigarh</item>
+        <item>Sec-8,Chandigarh</item>
+        <item>3B2,Mohali</item>
+
+    </string-array>
+
+    <string-array name="titles3">
+        <item>Pal</item>
+        <item>Khalsa</item>
+        <item>Pashtun</item>
+        <item>Copper Chimney</item>
+        <item>Dil Desi</item>
+        <item>Katani Dhaba</item>
+        <item>Punjabi Daba</item>
+    </string-array>
+
+    <string-array name="address3">
+        <item>Sec-26,Chandigarh</item>
+        <item>Kharar,Mohali</item>
+        <item>Elante,Chandigarh</item>
+        <item>Elante,Chandigarh</item>
+        <item>Sec-35,Chandigarh</item>
+        <item>3B2,Chandigarh</item>
+        <item>Sec-34,Chandigarh</item>
+
+    </string-array>
+    <string-array name="titles4">
+        <item>Softy Corner</item>
+        <item>Baskin robins</item>
+        <item>Amrits</item>
+        <item>Giani</item>
+        <item>Gelatino Italiano</item>
+        <item>Basant</item>
+        <item>Lotus Ice Cream</item>
+    </string-array>
+
+    <string-array name="address4">
+        <item>Sec-17,Chandigarh</item>
+        <item>Sec-35,Chandigarh</item>
+        <item>5 phase,Mohali</item>
+        <item>Sec-22,Chandigarh</item>
+        <item>Elante,Chandigarh</item>
+        <item>3 Phase,Mohali</item>
+        <item>Sec-28,Chandigarh</item>
+
+    </string-array>
+
+    <string-array name="titles5">
+        <item>Pizza Hut</item>
+        <item>Dominoz</item>
+        <item>BigFatPizza</item>
+        <item>Tossin</item>
+        <item>SmokinJoe</item>
+        <item>SamsPizza</item>
+        <item>Lapino</item>
+    </string-array>
+
+    <string-array name="address5">
+        <item>NCM,Mohali</item>
+        <item>Kharar,Chandigarh</item>
+        <item>Sec-10,Chandigarh</item>
+        <item>Sec-35,Chandigarh</item>
+        <item>Sec-32,Chandigarh</item>
+        <item>Sec-26,Chandigarh</item>
+        <item>Sec-9D,Chandigarh</item>
+
+    </string-array>
 </resources>

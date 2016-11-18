@@ -49,6 +49,16 @@
         </activity>
         <activity android:name=".dis" >
         </activity>
+        <activity android:name=".nveg" >
+        </activity>
+        <activity android:name=".chinesefood" >
+        </activity>
+        <activity android:name=".punjabi" >
+        </activity>
+        <activity android:name=".icecream" >
+        </activity>
+        <activity android:name=".pizza" >
+        </activity>
     </application>
 
 </manifest>

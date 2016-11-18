@@ -32,7 +32,7 @@ public class menu extends AppCompatActivity {
         iview2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent i=new Intent(menu.this,dis.class);
+                Intent i=new Intent(menu.this,chinesefood.class);
                 startActivity(i);
             }
         });
@@ -40,7 +40,8 @@ public class menu extends AppCompatActivity {
         iview3.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent i=new Intent(menu.this,dis.class);
+                Intent i=new Intent(menu.this,punjabi
+                        .class);
                 startActivity(i);
             }
         });
@@ -48,7 +49,7 @@ public class menu extends AppCompatActivity {
         iview4.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent i=new Intent(menu.this,dis.class);
+                Intent i=new Intent(menu.this,nveg.class);
                 startActivity(i);
             }
         });
@@ -56,7 +57,7 @@ public class menu extends AppCompatActivity {
         iview5.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent i=new Intent(menu.this,dis.class);
+                Intent i=new Intent(menu.this,pizza.class);
                 startActivity(i);
             }
         });
@@ -64,7 +65,7 @@ public class menu extends AppCompatActivity {
         iview6.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent i=new Intent(menu.this,dis.class);
+                Intent i=new Intent(menu.this,icecream.class);
                 startActivity(i);
             }
         });
